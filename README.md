@@ -1,4 +1,5 @@
-## Images of how it works on terminal 
+## Screenshot
+！[](maze.png)
 
 
 
