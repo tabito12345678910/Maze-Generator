@@ -1,5 +1,5 @@
-## Screenshot
-！[](maze.png)
+# Screenshot
+![](maze.png)
 
 
 
