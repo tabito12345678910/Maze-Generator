@@ -379,6 +379,12 @@ int main(int argc, char* argv[]) {
   
   Node* solution = generate_maze(width, height, maze(width, height));;//function to generate path and/or solved maze
 
+  cout << "Answer yes if you want the solved maze to be generated as well, if not enter anything else" << endl;
+  cin >> yn;
+  if (yn == "yes"){
+        print_solved_maze(width, height, solution);
+  }
+
 
 
 
